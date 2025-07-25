@@ -1,7 +1,7 @@
 {
     "Revit2023": {
         "Version": "1.0.1",
-        "DownloadUrl": "",
+        "DownloadUrl": "https://github.com/Forsa-Ascend/AscendBimToolsUpdater/releases/download/v1.0.0/AscendBimTools2023.msi",
         "ReleaseNotes": "No hay actualizaciones disponibles para Revit 2023.",
         "ToolsVersions": {
             "Presupuestos Coninsa": "1.0.1",
