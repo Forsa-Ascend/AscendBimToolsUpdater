@@ -1,15 +1,15 @@
 {
     "Revit2023": {
-        "Version": "1.0.0",
+        "Version": "1.0.1",
         "DownloadUrl": "",
         "ReleaseNotes": "No hay actualizaciones disponibles para Revit 2023.",
         "ToolsVersions": {
-            "Presupuestos Coninsa": "1.0.0",
+            "Presupuestos Coninsa": "1.0.1",
             "Checker Coninsa": "1.0.0"
         }
     },
     "Revit2024": {
-        "Version": "1.0.0",
+        "Version": "1.0.2",
         "DownloadUrl": "",
         "ReleaseNotes": "No hay actualizaciones disponibles para Revit 2024.",
         "ToolsVersions": {
