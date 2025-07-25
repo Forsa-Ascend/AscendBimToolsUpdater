@@ -1,14 +1,4 @@
 {
-    "Revit2021": {
-        "Version": "1.0.0",
-        "DownloadUrl": "",
-        "ReleaseNotes": "No hay actualizaciones disponibles para Revit 2021."
-    },
-    "Revit2022": {
-        "Version": "1.0.0",
-        "DownloadUrl": "",
-        "ReleaseNotes": "No hay actualizaciones disponibles para Revit 2022."
-    },
     "Revit2023": {
         "Version": "1.0.0",
         "DownloadUrl": "",
