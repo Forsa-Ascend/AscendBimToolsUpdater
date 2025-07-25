@@ -1,0 +1,39 @@
+{
+    "Revit2021": {
+        "Version": "1.0.0",
+        "DownloadUrl": "",
+        "ReleaseNotes": "No hay actualizaciones disponibles para Revit 2021."
+    },
+    "Revit2022": {
+        "Version": "1.0.0",
+        "DownloadUrl": "",
+        "ReleaseNotes": "No hay actualizaciones disponibles para Revit 2022."
+    },
+    "Revit2023": {
+        "Version": "1.0.0",
+        "DownloadUrl": "",
+        "ReleaseNotes": "No hay actualizaciones disponibles para Revit 2023.",
+        "ToolsVersions": {
+            "Presupuestos Coninsa": "1.0.0",
+            "Checker Coninsa": "1.0.0"
+        }
+    },
+    "Revit2024": {
+        "Version": "1.0.0",
+        "DownloadUrl": "",
+        "ReleaseNotes": "No hay actualizaciones disponibles para Revit 2024.",
+        "ToolsVersions": {
+            "Presupuestos Coninsa": "1.0.0",
+            "Checker Coninsa": "1.0.0"
+        }
+    },
+    "Revit2025": {
+        "Version": "1.0.0",
+        "DownloadUrl": "",
+        "ReleaseNotes": "No hay actualizaciones disponibles para Revit 2025.",
+        "ToolsVersions": {
+            "Presupuestos Coninsa": "1.0.0",
+            "Checker Coninsa": "1.0.0"
+        }
+    }
+}
