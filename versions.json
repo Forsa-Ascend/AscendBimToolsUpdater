@@ -1,6 +1,6 @@
 {
     "Revit2023": {
-        "Version": "1.0.12",
+        "Version": "1.0.0",
         "DownloadUrl": "https://github.com/Forsa-Ascend/AscendBimToolsUpdater/releases/download/v1.0.0/AscendBimTools2023.msi",
         "ReleaseNotes": "Prueba de Actualizacion para Revit 2023 con nuevo boton Assembly",
         "ToolsVersions": {
