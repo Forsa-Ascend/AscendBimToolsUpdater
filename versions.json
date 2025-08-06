@@ -33,7 +33,7 @@
         "DownloadUrl": "https://github.com/Forsa-Ascend/AscendBIMToolsVersions/releases/download/v.2024/AscendBimTools2024.zip",
         "ReleaseNotes": "No hay actualizaciones disponibles para Revit 2024.",
         "ToolsVersions": {
-            "VisIdeal": "1.0.0",
+            "VisIdeal": "1.1.0",
             "Cabidas": "1.0.0", 
 			"BaseGato": "1.0.0",
 			"Ifc": "1.0.0",
