@@ -30,7 +30,7 @@
     },
     "Revit2024": {
         "Version": "1.0.0",
-        "DownloadUrl": "",
+        "DownloadUrl": "https://github.com/Forsa-Ascend/AscendBIMToolsVersions/releases/download/v.2024/AscendBimTools2024.zip",
         "ReleaseNotes": "No hay actualizaciones disponibles para Revit 2024.",
         "ToolsVersions": {
             "VisIdeal": "1.0.0",
